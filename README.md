@@ -26,7 +26,7 @@ The data warehouse can also help DonorsChoose to apply machine learning models a
 
 The workflow of this project is extracting the data from the files stored in AWS S3, transforming the data by using Spark in AWS EMR and saving data in CSV format to AWS S3 again, then loading the proccessed data to AWS Redshift.
 
-
+![title](img/workflow.png)
 
 The advantage of making the entire process on cloud is to reduce the processing time. Spark shines on big volume data processing by its auto-scaling ability.
 
@@ -62,7 +62,7 @@ Five datasets are used in this project:
 
 ### Database Model (STAR Schema)
 
-
+![title](img/ERD.png)
 
 * More details about the data are available in the data dictionary (data_dictionary.md).
 

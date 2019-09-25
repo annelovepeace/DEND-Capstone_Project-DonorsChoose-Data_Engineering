@@ -62,7 +62,7 @@ Five datasets are used in this project:
 
 ### Database Model (STAR Schema)
 
-![title](img/ERD.png)
+![title](img/ERD.jpeg)
 
 * More details about the data are available in the data dictionary (data_dictionary.md).
 

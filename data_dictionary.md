@@ -12,7 +12,7 @@
 
 ### Database Model
 
-![title](img/ERD.png)
+![title](img/ERD.jpeg)
 
 
 ## Description
